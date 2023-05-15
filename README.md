@@ -1,6 +1,6 @@
 # HashTyp!e
 
-The Hash Type Identifier is a Python program that identifies the hash algorithm based on the length of the hash value. It helps determine the algorithm used to generate a given hash.
+HashTyp!e is a Python program that identifies the hash algorithm based on the length of the hash value. It helps determine the algorithm used to generate a given hash.
 
 ## Installation
 
